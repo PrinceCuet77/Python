@@ -13,6 +13,7 @@ print(full_name * 3)                                    # Print full_name 3 time
 name = "prince"
 age = 22
 print(f"Name : {name} and Age : {age+2}")
+print('Name : {} and Age : {}'.format(name, age+2))
 
 # String indexing
 lan = "python"
